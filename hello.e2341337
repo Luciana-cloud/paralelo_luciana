@@ -1,0 +1,6 @@
+icpx: warning: use of 'dpcpp' is deprecated and will be removed in a future release. Use 'icpx -fsycl' [-Wdeprecated]
+/home/u196481/Paralelo_test/hello_A.cpp:6:26: error: expected ';' after expression
+    printf("Hello World")
+                         ^
+                         ;
+1 error generated.
